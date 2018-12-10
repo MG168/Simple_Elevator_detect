@@ -1,0 +1,3 @@
+"# Simple_Elevator_detect"
+
+A simple elecvator inspection system, maily detecting whether there is anyone, the door closing, parking on which floor, going up or down...
